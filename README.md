@@ -25,7 +25,7 @@ I'm a developer who enjoys turning ideas into thoughtful, reliable experiences. 
 ## My toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,git,github,vscode&perline=9" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&perline=9" alt="Technology icons" />
 </p>
 
 ## What I'm working on
