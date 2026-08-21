@@ -2,47 +2,44 @@
 
 # Hey, I'm Tanuj 👋
 
-### Building useful things with code.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+useful+things+with+code.;Learning%2C+shipping%2C+and+growing+every+day." alt="Animated introduction" />
+</a>
 
 <p>
-  Developer · Problem solver · Lifelong learner
+  <a href="https://github.com/TanujKatel16?tab=followers"><img src="https://img.shields.io/github/followers/TanujKatel16?label=Followers&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="GitHub followers" /></a>
+  <a href="https://github.com/TanujKatel16?tab=repositories"><img src="https://img.shields.io/badge/View%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
 </p>
-
-[Explore my work](https://github.com/TanujKatel16?tab=repositories) · [Follow my journey](https://github.com/TanujKatel16?tab=followers)
 
 </div>
 
----
-
-## ✦ About me
+## About me
 
 I'm a developer who enjoys turning ideas into thoughtful, reliable experiences. I care about clean code, continuous learning, and building projects that solve real problems.
 
 - 🔭 Currently building and experimenting with new ideas
 - 🌱 Always learning something new
-- 🤝 Open to collaboration and interesting projects
+- 💬 Open to conversations, collaboration, and interesting projects
 - ⚡ I believe the best way to learn is to ship
 
-## 🛠️ My toolbox
+## My toolbox
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Node.js` · `Java` · `Git` · `GitHub`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,git,github,vscode&perline=9" alt="Technology icons" />
+</p>
 
-## 🚀 What you'll find here
+## What I'm working on
 
-| Area | What I share |
-| :-- | :-- |
-| **Projects** | Things I've built from an idea to a working product |
-| **Experiments** | New tools, concepts, and technologies I'm exploring |
-| **Learning** | Work that documents my growth as a developer |
-
-## 📌 Featured work
-
-> Pin your best 3–6 repositories on your GitHub profile. Choose projects with a clear README, a strong name, and something a visitor can try or see.
+I use this space to share projects, experiments, and the things I'm learning along the way. Explore my repositories below—or pin your best work on your GitHub profile so visitors see it first.
 
 <div align="center">
+  <a href="https://github.com/TanujKatel16?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</div>
 
-### Let's build something worthwhile.
+---
 
-Feel free to explore my repositories, star a project, or get in touch.
-
+<div align="center">
+  <i>Thanks for stopping by. Feel free to explore, star a project, or say hello.</i>
 </div>
